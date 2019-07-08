@@ -1,0 +1,25 @@
+
+.Grid-root {
+   box-sizing: border-box;
+   height: 100vh;
+   padding: 5px 5px;
+   color: aliceblue;
+
+}
+.title {
+
+    text-align: left;
+    font-size: 1.5rem;
+    background-color: inherit;
+    color: white;
+    box-shadow: none;
+    
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
